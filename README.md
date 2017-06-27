@@ -9,3 +9,8 @@ This is collection of programming exercises for KJM1101 at UiO. The exercises ar
 
 ## Releasing exercises
 Run `nbgrader release <exercise name>`.
+
+# Useful links
+- [NBGrader](https://github.com/jupyter/nbgrader)
+- [NBGrader demo](https://github.com/jhamrick/nbgrader-demo)
+- [MyBinder](http://mybinder.org/)
