@@ -14,4 +14,5 @@ Run `nbgrader release <exercise name>`.
 - [NBGrader](https://github.com/jupyter/nbgrader)
 - [NBGrader demo](https://github.com/jhamrick/nbgrader-demo)
 - [NBGrader plotchecker](https://github.com/jhamrick/plotchecker)
+- [NBConvert](https://github.com/jupyter/nbconvert)
 - [MyBinder beta](https://beta.mybinder.org/)
