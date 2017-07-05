@@ -10,5 +10,4 @@ c.NbGrader.db_assignments = [dict(name="lab1"),
 							 dict(name="lab5"),]
 c.NbGrader.db_students = [dict(id=get_username())]
 
-c.ClearSolutions.code_stub = {"python": "# SKRIV DITT SVAR HER"}
-
+c.ClearSolutions.code_stub = {"python": "# WRITE YOUR ANSWER HERE"}
